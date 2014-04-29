@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 14, 2014, 12:15:21 AM
+    Author     : Doug
+*/
+body {
+  background: #1C4297;
+  color: #fff;
+}
+#adminHeader {
+  background: none repeat scroll 0 0 #1C4297;
+  padding: 10px 50px;
+}
+#adminNav {
+  background: none repeat scroll 0 0 #0BA7E1;
+  padding: 10px 52px;
+}
+#adminMain {
+  background: none repeat scroll 0 0 #EAEAEA;
+  color: #000000;
+  padding: 10px 50px;
+  min-height: 650px;
+}
+#adminNav ul {
+  margin: 0;
+  padding: 0;
+}
+#adminNav ul li a:link, #adminNav ul li a:visited {
+  color: #fff;
+}
+#adminMain table {
+  color: #000000;
+  font-size: 12px;
+  width: 80%;
+  background: #fff;
+  border: solid 2px #000;
+}
+.highlight {
+  background-color: #F7F7F9;
+  border: 1px solid #E1E1E8;
+  border-radius: 4px;
+  margin-bottom: 14px;
+  padding: 9px 14px;
+}
+.form-group {
+  max-width: 400px;
+}
+#adminNav li {
+  padding: 8px 0;
+}
